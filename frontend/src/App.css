@@ -1,0 +1,15 @@
+.app{
+  margin: 0px;
+  background-color: #fffdf9;
+}
+
+.skin-color {
+  background: #fffdf9 !important;
+  color: #f0a85e !important;
+  font-weight: 500 !important;
+}
+.skin-color:hover {
+  background: #fce4cb !important;
+  color: #be9570 !important;
+  border-color: #be9570 !important;
+}

@@ -1,0 +1,5 @@
+PORT=***
+REDIS_HOST=***
+REDIS_PORT=***
+
+Crie um arquivo com nome de .env dentro da pasta backend e adicione da linha 1 até a 3 no mesmo.

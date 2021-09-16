@@ -1,0 +1,27 @@
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.header .logo{
+    display: flex;
+    align-items: center;
+    width: 160px;
+}
+.header .logo img {
+    width: 100%;
+}
+
+.header .action-btn {
+    display: flex;
+    align-items: center;
+    background: rgba(30,101,17,255);
+    border-radius: 5px;
+}
+.header .action-btn .icon-block {
+    font-size: 20px;
+    padding: 10px;
+    color: #fff;
+}
